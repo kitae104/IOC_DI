@@ -5,7 +5,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<java-version>17</java-version>
+		<java-version>11</java-version>
 		<org.springframework-version>3.1.1.RELEASE</org.springframework-version>
 	</properties>
 
